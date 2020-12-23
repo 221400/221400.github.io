@@ -1,0 +1,15 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /post/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+Allow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /fancybox/
+Sitemap: https://www.xinyifubai.com/sitemap.xml
+Sitemap: https://www.xinyifubai.com/baidusitemap.xml
